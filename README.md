@@ -1,4 +1,4 @@
-# latihan1_pertemuan2_alfian
+# Tugas Matakuliah Pemrograman Mobile IF 5A AlfianFatoni/3012410017
 
 A new Flutter project.
 
